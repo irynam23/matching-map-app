@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/matching-map-app/static/css/main.4180fdb1.css",
-    "main.js": "/matching-map-app/static/js/main.a1cb9709.js",
+    "main.js": "/matching-map-app/static/js/main.3ce441e1.js",
     "static/js/787.959e693b.chunk.js": "/matching-map-app/static/js/787.959e693b.chunk.js",
     "static/media/Coat_of_Luhansk.png": "/matching-map-app/static/media/Coat_of_Luhansk.3c72a8e817f01eda9e79.png",
     "static/media/Coat_of_Zhytomyr.png": "/matching-map-app/static/media/Coat_of_Zhytomyr.091471bffec56acb9db3.png",
@@ -46,11 +46,11 @@
     "static/media/youtube.svg": "/matching-map-app/static/media/youtube.ca6ab0472be591627d55b21532ded7b8.svg",
     "static/media/linkedin.svg": "/matching-map-app/static/media/linkedin.deb28ec593d342913b9cc27a10236cae.svg",
     "main.4180fdb1.css.map": "/matching-map-app/static/css/main.4180fdb1.css.map",
-    "main.a1cb9709.js.map": "/matching-map-app/static/js/main.a1cb9709.js.map",
+    "main.3ce441e1.js.map": "/matching-map-app/static/js/main.3ce441e1.js.map",
     "787.959e693b.chunk.js.map": "/matching-map-app/static/js/787.959e693b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4180fdb1.css",
-    "static/js/main.a1cb9709.js"
+    "static/js/main.3ce441e1.js"
   ]
 }
