@@ -7,7 +7,7 @@ import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter basename="matching-map-app/">
+    <BrowserRouter basename="/matching-map-app">
       <App />
     </BrowserRouter>
   </React.StrictMode>
