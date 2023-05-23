@@ -15,7 +15,6 @@ export const Modal = ({ correct, toggleModal }) => {
   }, [toggleModal]);
 
   const closeModal = (e) => {
-    console.dir(e.target);
     if (e.target === e.currentTarget || e.target.nodeName === "BUTTON")
       toggleModal();
   };

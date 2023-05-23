@@ -28,8 +28,6 @@ export const Map = ({ selected }) => {
                 key={data.id}
                 pathData={data}
                 onClick={() => {
-                  console.log("selectedOption", selectedOption);
-                  console.log("data.id", data.id);
                   if (selectedOption === data.id) {
                     setCorrect(true);
                   } else {
